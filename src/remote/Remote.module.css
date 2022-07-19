@@ -1,0 +1,13 @@
+.remote{
+    height: 30vh;
+    background-color: #ceef86;
+    flex-wrap: wrap;
+}
+.remoteContainer{
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.title{
+    background-color: #e2c8fa;
+}

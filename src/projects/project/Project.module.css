@@ -1,0 +1,29 @@
+.project{
+    background-color: #e2c8fa;
+    width: 270px;
+
+}
+.imgProject{
+    width: 270px;
+    height: 180px;
+    background-color: #e2ffb7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.allDescription{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.title{
+    margin: 0;
+    text-align: center;
+    border: 1px solid;
+}
+.description{
+    text-align: center;
+    border: 1px solid;
+}

@@ -1,0 +1,15 @@
+.main{
+    height: 100vh;
+    background-color: #b1ffe3;
+}
+
+
+.text{
+    width: 400px;
+    background-color: #a8a2a2;
+}
+.photo{
+    width: 300px;
+    height: 400px;
+    background-color: #a8a2a2;
+}
