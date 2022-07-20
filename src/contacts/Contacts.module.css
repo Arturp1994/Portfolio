@@ -5,7 +5,7 @@
 
 .form{
     border: 1px solid;
-    background-color: #e2c8fa;
+    background-color: #b79ecc;
     display: flex;
     flex-direction: column;
     width: 300px;
@@ -20,5 +20,5 @@ margin-bottom: 20px;
 }
 
 .title{
-    background-color: #a486dc;
+    background-color: #79489d;
 }
