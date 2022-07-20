@@ -13,6 +13,7 @@ function Skills() {
                     <Skill title={'JS'} description={'Djvlk fvklfvjklfj vkfjvkfvjfvjfvjfvjfvfv fvfvfv'}/>
                     <Skill title={'CSS'} description={'Djvlkfvklf vjklfjvkfjvk fvjfvjfvjfvj fvfvfvfvfv'}/>
                     <Skill title={'React'} description={'Djvlkfvklf vjklfjvkfjvkfvjfvjfvjfv jfvfvfvfvfv'}/>
+
                 </div>
             </div>
 

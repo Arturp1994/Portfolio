@@ -8,7 +8,7 @@
     background-color: #b79ecc;
     display: flex;
     flex-direction: column;
-    width: 300px;
+    width: 280px;
 }
 .form input{
 margin-bottom: 20px;
